@@ -1,0 +1,19 @@
+{
+  "name": "dont-do-it",
+  "version": "1.0.0",
+  "main": "index.js",
+  "keywords": [],
+  "author": "Jack Thomson <hello@jackthomson.co.uk> (http://www.jackthomson.co.uk)",
+  "license": "ISC",
+  "dependencies": {
+    "node-sms-send": "^0.1.3",
+    "sendmail": "^1.6.1",
+    "textmagic-client": "^2.0.1307",
+    "textmagic-rest-client": "^1.0.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "description": ""
+}
